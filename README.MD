@@ -1,1 +1,1 @@
-# Repository of all the rail apps I completed for learning purposes
+# Repository of all the begginner rail apps I completed for learning purposes
